@@ -49,7 +49,7 @@ After getting familiarized with the data, a data cleaning process was done and w
 
 ![Correlation Matrix on Jupiter Notebook_ Project 2](images/corr1.png)
 
-![Correlation Matrix 2](images/matrix project 2.png)
+![Correlation Matrix 2]([images/matrix project 2.png](https://github.com/aswego123/Anj_portfolio/blob/ae6843da89b3418e3d5123bbc6ee32a3079187c6/images/matrix%20project%202.png))
 
 ### Final Results:
 
