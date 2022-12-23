@@ -55,7 +55,7 @@ After getting familiarized with the data, a data cleaning process was done and w
 
 The above world maps represent all the issues country-wise and assign the darker colour shade to higher values and lighter shade to those with lesser values. It gives a fair idea about which countries have severe IT individual workers issues. Here we’re comparing how the distribution of the data is based on both the methods provided. 
 
-![Results_Data visualisation ](images/results 2.png)
+![Results_Data visualisation ]([images/results 2.png](https://github.com/aswego123/Anj_portfolio/blob/25de1ef40e8a1db44dd0082bab71ddfe3b589fd4/images/results%202.png))
 
 
 
