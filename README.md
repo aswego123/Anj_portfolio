@@ -1,5 +1,5 @@
 # Anj_portfolio
-Example data science portfolio :joy:
+Example data science portfolio 🌻:
 
 Data Science projects:
 
