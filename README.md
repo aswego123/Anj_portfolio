@@ -1,5 +1,5 @@
 # Anj_portfolio
-Example data science portfolio
+Example data science portfolio :joy:
 
 Data Science projects:
 
@@ -11,9 +11,11 @@ After getting familiarised with the data, a data cleansing process was initially
 Index:
 
 Introduction
+
 Data Cleansing
 1. Missing Values
 2. Data types and Uniformity
+
 Descriptive Statistics
 1. Mean
 2. Median
@@ -21,15 +23,19 @@ Descriptive Statistics
 4. Standard Deviation
 5. Variance
 6. Quartiles
+
 Data Visualization
+
 Plot 1: Frequency of variables (Histogram) 
 Plot 2: Amount vs Day (Box Plot)
 Plot 3: Amount vs Tip (Scatter Plot)
 Plot 4: Gender vs Tips
 Plot 5: Party size vs Amount
+
 Data Analysis:
 1. Hypothesis
 Problem Statements
+
 Recommendations
 
 Some results based on the data provided to us:
