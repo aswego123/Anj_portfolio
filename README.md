@@ -48,3 +48,15 @@ The company CX has handed over a dataset related to ICT workers’ individual is
 After getting familiarized with the data, a data cleaning process was done and was followed by data visualization and calculating the descriptive statistics. The main analysis was carried out with the help of agglomerative hierarchical clustering and the groups that were formed upon clustering were interpreted accordingly.
 
 ![Correlation Matrix on Jupiter Notebook_ Project 2](images/corr1.png)
+
+![Correlation Matrix 2](images/matrix project 2.png)
+
+### Final Results:
+
+The above world maps represent all the issues country-wise and assign the darker colour shade to higher values and lighter shade to those with lesser values. It gives a fair idea about which countries have severe IT individual workers issues. Here we’re comparing how the distribution of the data is based on both the methods provided. 
+
+![Results_Data visualisation ](images/results 2.png)
+![Results_Data visualisation 2](images/results 1.png)
+
+
+
