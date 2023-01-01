@@ -62,8 +62,7 @@ The above world maps represent all the issues country-wise and assign the darker
 [Workbook Link:](https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1)
 https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1
 
-Kaggle competition page:
-https://www.kaggle.com/competitions/titanic
+[Kaggle competition page:](https://www.kaggle.com/competitions/titanic)
 
 Problem Statement:
 
