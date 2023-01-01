@@ -57,5 +57,18 @@ The above world maps represent all the issues country-wise and assign the darker
 
 ![Results_Data visualisation]([images/results 2.png](https://github.com/aswego123/Anj_portfolio/blob/25de1ef40e8a1db44dd0082bab71ddfe3b589fd4/images/results%202.png))
 
+## Project 3. Kaggle: Titanic - Machine Learning from Disaster (In Progress)
+
+[Workbook Link:](https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1)
+https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1
+
+Kaggle competition page:
+https://www.kaggle.com/competitions/titanic
+
+Problem Statement:
+
+Tha data set provided is from the Titanic Survival from disaster, an ongoing challenge on Kaggle, and the programming language used in the data analysis is Python. PS: Knowing from a training set of samples listing passengers who survived or did not survive the Titanic disaster, can our model determine based on a given test dataset not containing the survival information, if these passengers in the test dataset survived or not.
+Q - What kind of people are more likely to survive?
+Data sets provided to us - train.csv, test.csv, gender_submission.csv
 
 
