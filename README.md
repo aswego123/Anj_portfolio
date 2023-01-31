@@ -57,10 +57,10 @@ The above world maps represent all the issues country-wise and assign the darker
 
 ![Results_Data visualisation]([images/results 2.png](https://github.com/aswego123/Anj_portfolio/blob/25de1ef40e8a1db44dd0082bab71ddfe3b589fd4/images/results%202.png))
 
-## Project 3. Kaggle: Titanic - Machine Learning from Disaster (In Progress)
+## Project 3. Kaggle: Titanic - Machine Learning from Disaster
 
 [Workbook Link:](https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1)
-https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1
+[Notebllok Link:](https://www.kaggle.com/code/anjk2023/titanic-project-da-project-1)
 
 [Kaggle competition page:](https://www.kaggle.com/competitions/titanic)
 
@@ -70,4 +70,8 @@ Tha data set provided is from the Titanic Survival from disaster, an ongoing cha
 Q - What kind of people are more likely to survive?
 Data sets provided to us - train.csv, test.csv, gender_submission.csv
 
+## Project 4. Data Analytics and machine learning on Covid 19 dataset (India) - IN PROGRESS
+
+Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government
+ML Models - Arima Model, GMM
 
