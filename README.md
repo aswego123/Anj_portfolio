@@ -74,5 +74,6 @@ Data sets provided to us - train.csv, test.csv, gender_submission.csv
 Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government
 
 ML Models - Arima Model, GMM, GANs
+
 In progress - LSTM, Transformer Machine Learning model
 
