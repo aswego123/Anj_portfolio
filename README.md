@@ -72,5 +72,7 @@ Data sets provided to us - train.csv, test.csv, gender_submission.csv
 ## Project 4. Data Analytics and machine learning on Covid 19 dataset (India) - IN PROGRESS
 
 Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government
-ML Models - Arima Model, GMM
+
+ML Models - Arima Model, GMM, GANs
+In progress - LSTM, Transformer Machine Learning model
 
