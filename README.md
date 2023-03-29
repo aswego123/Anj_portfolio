@@ -74,6 +74,7 @@ Data sets provided to us - train.csv, test.csv, gender_submission.csv
 Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government
 ML Models - Arima Model, GMM, GANs, LSTM
 In progress - LSTM, Transformer Machine Learning model
+Currently - CGANs (Conditional Generative Adversial Networks)
 
 Courses completed - 
 1. Coursera - Google DA course certificate 1 Foundation Data, data everywhere by GOOGLE
