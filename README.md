@@ -72,9 +72,10 @@ Data sets provided to us - train.csv, test.csv, gender_submission.csv
 ## Project 4. Data Analytics and machine learning on Covid 19 dataset (India) - IN PROGRESS
 
 Keywords: COVID-19, machine learning, data analytics, time series forecasting, healthcare, government
+
 ML Models - Arima Model, GMM, GANs, LSTM
-In progress - LSTM, Transformer Machine Learning model
-Currently - CGANs (Conditional Generative Adversial Networks)
+
+In progress - LSTM, Transformer Machine Learning model, CGANs (Conditional Generative Adversial Networks)
 
 Courses completed - 
 1. Coursera - Google DA course certificate 1 Foundation Data, data everywhere by GOOGLE
